@@ -1,6 +1,7 @@
 ## Dynamic Feature Integration for Simultaneous Detection of Salient Object, Edge and Skeleton
 
 ### This is a demo PyTorch implementation.
+### We also provide an [Online Demo](http://mc.nankai.edu.cn/dfi).
 
 <p align="center">
   <img src="https://github.com/backseason/DFI/blob/master/demo/demo.gif" alt="animated" />
