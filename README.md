@@ -1,6 +1,6 @@
 ## Dynamic Feature Integration for Simultaneous Detection of Salient Object, Edge and Skeleton
 
-### This is a demo PyTorch implementation.
+### This is a demo PyTorch implementation of our IEEE TIP 2020 [paper](http://mftp.mmcheng.net/Papers/20TIP-DFI.pdf).
 ### We also provide an [Online Demo](http://mc.nankai.edu.cn/dfi).
 
 <p align="center">
@@ -43,3 +43,19 @@ their corresponding evaluation scores with
 the following link:
 `Results reported in the paper` [GoogleDrive](https://drive.google.com/file/d/17SBs3v3h_FnImbHOZk0zy4JzDUHSK1zv/view?usp=sharing) | [BaiduYun](https://pan.baidu.com/s/1WP3WP5oaNWRuaUcKH4oZ7g) (pwd: **7eg3**)
 
+## Contact
+If you have any questions, feel free to contact me via: `j04.liu(at)gmail.com`.
+
+### If you think this work is helpful, please cite
+```latex
+@article{liu2020dynamic,
+  title={Dynamic Feature Integration for Simultaneous Detection of Salient Object, Edge and Skeleton},
+  author={Jiang-Jiang Liu and Qibin Hou and Ming-Ming Cheng},
+  journal={IEEE Transactions on Image Processing},
+  year={2020},
+  volume={},
+  number={},
+  pages={1-15},
+  doi={10.1109/TIP.2020.3017352},
+}
+```
