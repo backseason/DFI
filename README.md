@@ -36,14 +36,14 @@ you'll get the predictions under
 the `demo/predictions` folder. The predictions of all the three tasks are performed simultaneously.
 
 
-## Pre-computed results and evaluation results
+### 4. Pre-computed results and evaluation results
 
 You can find the pre-computed predictions maps of all the three tasks and 
 their corresponding evaluation scores with
 the following link:
 `Results reported in the paper` [GoogleDrive](https://drive.google.com/file/d/17SBs3v3h_FnImbHOZk0zy4JzDUHSK1zv/view?usp=sharing) | [BaiduYun](https://pan.baidu.com/s/1WP3WP5oaNWRuaUcKH4oZ7g) (pwd: **7eg3**)
 
-## Contact
+### 5. Contact
 If you have any questions, feel free to contact me via: `j04.liu(at)gmail.com`.
 
 ### If you think this work is helpful, please cite
